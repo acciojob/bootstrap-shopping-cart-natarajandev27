@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+body {
+  background-color: #f6f6f6;
+}
+header h1,
+.heading-text {
+  color: #3b99e0;
+}
+header p {
+  max-width: 420px;
+}
+.product-img {
+  height: 100px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+.summary-container {
+  background-color: #f7fbff;
+  border-top: 3px solid #5ea4f3;
+
+}
+.summary {
+  padding: 30px 20px;
+}
